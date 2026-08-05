@@ -1,0 +1,98 @@
+# Supported Versions
+
+This document outlines the support policy for repositories maintained by the Mettelo organization.
+
+Our goal is to provide a stable, secure, and reliable experience for contributors and community members while encouraging everyone to use the latest maintained versions of our projects.
+
+---
+
+# Version Support
+
+The following support policy applies unless otherwise stated within an individual repository.
+
+| Version | Supported | Description |
+|----------|:---------:|-------------|
+| Latest Stable Release | ✅ | Fully supported with new features, bug fixes, documentation updates, and security patches. |
+| Development Branch (`main`) | ✅ | Actively maintained. May contain new features and ongoing development. Not recommended for production use unless specifically stated. |
+| Previous Major Release | ⚠️ | Critical security updates may be provided where practical, but no guarantee of feature updates or bug fixes. |
+| Older Releases | ❌ | No longer supported. Users should upgrade to the latest stable release. |
+| Archived Repositories | ❌ | Read-only. No maintenance or support is provided. |
+
+---
+
+# What "Supported" Means
+
+Repositories that are actively supported may receive:
+
+- Security updates
+- Bug fixes
+- Performance improvements
+- Documentation updates
+- Dependency upgrades
+- Feature enhancements
+- Community support through GitHub Discussions and Issues
+
+Support does not guarantee immediate fixes or implementation of every feature request.
+
+---
+
+# Release Policy
+
+We aim to:
+
+- Release improvements regularly.
+- Keep dependencies reasonably up to date.
+- Address critical security issues as quickly as possible.
+- Maintain backward compatibility where practical.
+
+Some repositories may follow independent release schedules depending on their purpose.
+
+---
+
+# Deprecation Policy
+
+Occasionally, repositories or features may be deprecated.
+
+When this happens, we will:
+
+- Clearly communicate the deprecation.
+- Recommend replacement repositories or features where available.
+- Allow a reasonable transition period before ending support.
+
+Archived repositories will remain publicly accessible for reference unless there is a legal or security reason to remove them.
+
+---
+
+# Community Contributions
+
+Community contributions are always welcome.
+
+Even if a repository is no longer actively maintained, contributors are encouraged to:
+
+- Suggest improvements
+- Submit pull requests
+- Report issues
+- Propose new maintainers
+
+Where appropriate, repositories may be revived based on community interest and available maintainers.
+
+---
+
+# Need Help?
+
+If you're unsure whether a repository or version is supported, please:
+
+- Check the repository README
+- Review the latest release notes
+- Open a GitHub Discussion
+- Contact the maintainers
+
+---
+
+Thank you for helping us keep the Mettelo ecosystem reliable, secure, and sustainable.
+
+---
+
+© Mettelo
+
+Building the infrastructure for data and AI professionals to learn, build, prove, and grow together.
