@@ -1,0 +1,304 @@
+# Contributing to Mettelo
+
+First of all, thank you for your interest in contributing to Mettelo.
+
+Mettelo is more than a GitHub organization—we are building a global ecosystem where data and AI professionals can learn, collaborate, build real-world solutions, and demonstrate their capabilities through meaningful contributions.
+
+Every contribution, no matter how small, helps strengthen the community and move our mission forward.
+
+---
+
+# Our Mission
+
+Our mission is to build the infrastructure that enables data and AI professionals to learn, build, prove, and grow together.
+
+We welcome contributors from all backgrounds and experience levels. Whether you're fixing a typo, improving documentation, building an AI application, reviewing code, or mentoring another member, your contribution matters.
+
+---
+
+# Ways to Contribute
+
+There are many ways to contribute to Mettelo.
+
+## Documentation
+
+Help improve:
+
+- README files
+- Technical documentation
+- Tutorials
+- Setup guides
+- API documentation
+- User guides
+
+---
+
+## Code Contributions
+
+You can contribute by:
+
+- Fixing bugs
+- Implementing new features
+- Improving performance
+- Refactoring code
+- Adding tests
+- Improving accessibility
+
+---
+
+## Data & AI Projects
+
+Help build:
+
+- Machine Learning models
+- AI applications
+- Analytics dashboards
+- Data engineering pipelines
+- APIs
+- Automation tools
+
+---
+
+## Community Resources
+
+Contribute:
+
+- Career guides
+- Learning roadmaps
+- Playbooks
+- Project ideas
+- Public datasets
+- Interview resources
+- Portfolio examples
+
+---
+
+## Community Support
+
+You can also contribute by:
+
+- Answering questions
+- Reviewing pull requests
+- Reporting bugs
+- Suggesting improvements
+- Helping new contributors
+- Sharing knowledge
+
+---
+
+# Before You Start
+
+Please:
+
+- Read the repository README.
+- Review existing Issues.
+- Check whether someone is already working on the task.
+- Open a Discussion or Issue for significant changes before writing code.
+
+This helps avoid duplicate work.
+
+---
+
+# Contribution Workflow
+
+## Step 1
+
+Fork the repository.
+
+---
+
+## Step 2
+
+Create a feature branch.
+
+Example:
+
+feature/dashboard-improvements
+
+bugfix/sql-query
+
+docs/update-readme
+
+---
+
+## Step 3
+
+Make your changes.
+
+Please keep commits focused and well organised.
+
+---
+
+## Step 4
+
+Test your work.
+
+Where applicable, ensure:
+
+- Code runs successfully
+- Documentation is updated
+- Existing functionality is not broken
+
+---
+
+## Step 5
+
+Commit using clear commit messages.
+
+Examples:
+
+feat: add customer segmentation model
+
+fix: resolve authentication bug
+
+docs: improve installation guide
+
+refactor: optimise SQL queries
+
+---
+
+## Step 6
+
+Push your branch.
+
+---
+
+## Step 7
+
+Open a Pull Request.
+
+Provide:
+
+- Clear title
+- Description
+- Motivation
+- Screenshots (if applicable)
+- Related Issue
+
+---
+
+# Coding Standards
+
+We value readable, maintainable, and well-documented code.
+
+Please:
+
+- Write clean code.
+- Keep functions focused.
+- Use meaningful variable names.
+- Avoid unnecessary complexity.
+- Add comments where needed.
+- Follow language-specific best practices.
+
+---
+
+# Documentation Standards
+
+Documentation should be:
+
+- Clear
+- Accurate
+- Beginner-friendly
+- Up to date
+
+Whenever functionality changes, update the relevant documentation.
+
+---
+
+# Pull Request Review
+
+Every Pull Request may be reviewed for:
+
+- Code quality
+- Performance
+- Documentation
+- Security
+- Maintainability
+- Testing
+- Alignment with project goals
+
+Maintainers may request changes before approving.
+
+---
+
+# Issue Guidelines
+
+When opening an Issue:
+
+Include:
+
+- Clear title
+- Description
+- Steps to reproduce
+- Expected behaviour
+- Actual behaviour
+- Environment (if relevant)
+
+Feature requests should explain:
+
+- The problem
+- Proposed solution
+- Expected impact
+
+---
+
+# Communication
+
+Please communicate respectfully and professionally.
+
+Constructive feedback is encouraged.
+
+Healthy technical discussions are welcome.
+
+Personal attacks are not.
+
+---
+
+# Code of Conduct
+
+By contributing, you agree to follow the Mettelo Code of Conduct.
+
+Please read:
+
+CODE_OF_CONDUCT.md
+
+---
+
+# Recognition
+
+We value every contribution.
+
+Contributors may be recognised through:
+
+- GitHub contributor history
+- Community acknowledgements
+- Open-source showcases
+- Leadership opportunities
+- Project ownership
+- Contributor recognition programmes
+
+---
+
+# Need Help?
+
+If you're unsure where to start:
+
+- Open a GitHub Discussion
+- Create an Issue
+- Contact the maintainers
+
+We are happy to help.
+
+---
+
+# Thank You
+
+Thank you for helping build Mettelo.
+
+Together, we're creating a collaborative ecosystem where data and AI professionals can learn, build, contribute, and grow through real-world impact.
+
+---
+
+© Mettelo
+
+Building the infrastructure for data and AI professionals to learn, build, prove, and grow together.
