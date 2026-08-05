@@ -1,0 +1,149 @@
+---
+name: Documentation Improvement
+about: Suggest improvements or report issues with documentation
+title: "[DOCS] "
+labels: documentation
+assignees: ""
+---
+
+# Documentation Improvement
+
+Thank you for helping improve Mettelo's documentation.
+
+Clear, accurate, and accessible documentation is essential to helping our community learn, contribute, and collaborate effectively.
+
+Please complete the sections below.
+
+---
+
+# Summary
+
+Provide a short summary of the documentation issue or improvement.
+
+Example:
+
+> The installation guide is missing Python version requirements.
+
+---
+
+# Documentation Type
+
+Select all that apply.
+
+- [ ] README
+- [ ] Installation Guide
+- [ ] Contributing Guide
+- [ ] Code Examples
+- [ ] API Documentation
+- [ ] Learning Resources
+- [ ] Tutorials
+- [ ] Roadmaps
+- [ ] Playbooks
+- [ ] Other
+
+---
+
+# Repository
+
+Which repository does this relate to?
+
+- [ ] .github
+- [ ] community
+- [ ] labs
+- [ ] roadmaps
+- [ ] playbooks
+- [ ] project-library
+- [ ] datasets
+- [ ] career-resources
+- [ ] Other
+
+Repository Name:
+
+---
+
+# Current Documentation
+
+Provide a link or describe the documentation that needs improvement.
+
+---
+
+# Problem
+
+What is wrong with the current documentation?
+
+Examples:
+
+- Missing information
+- Outdated information
+- Incorrect instructions
+- Broken links
+- Typographical errors
+- Poor formatting
+- Difficult to understand
+- Missing examples
+
+---
+
+# Suggested Improvement
+
+Describe how the documentation should be improved.
+
+Include as much detail as possible.
+
+---
+
+# Why Is This Important?
+
+How would this improvement benefit the community?
+
+Examples:
+
+- Easier onboarding
+- Better contributor experience
+- Fewer support requests
+- Improved learning
+- Better accessibility
+
+---
+
+# Supporting Information
+
+Include any supporting resources.
+
+Examples:
+
+- Screenshots
+- Code snippets
+- Reference links
+- External documentation
+
+---
+
+# Would You Like to Contribute?
+
+- [ ] Yes, I can create a Pull Request.
+- [ ] Yes, but I need guidance.
+- [ ] No, I'm only reporting the issue.
+
+---
+
+# Checklist
+
+Before submitting, please confirm:
+
+- [ ] I searched existing Issues and Discussions.
+- [ ] I have identified the affected documentation.
+- [ ] My suggestion is clear and actionable.
+- [ ] Any links or references included are publicly accessible.
+
+---
+
+Thank you for helping improve Mettelo's documentation.
+
+High-quality documentation empowers more people to learn, contribute, and build with confidence.
+
+---
+
+© Mettelo
+
+Building the infrastructure for data and AI professionals to learn, build, prove, and grow together.
