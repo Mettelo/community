@@ -1,0 +1,265 @@
+---
+name: Project Proposal
+about: Propose a new project for the Mettelo community
+title: "[PROJECT] "
+labels: project, proposal
+assignees: ""
+---
+
+# Project Proposal
+
+Thank you for proposing a new project for the Mettelo community.
+
+Mettelo exists to help data and AI professionals build real-world experience through meaningful collaboration. Every project should solve a genuine problem, encourage learning, and create value for contributors and the wider community.
+
+Please complete this template with as much detail as possible.
+
+---
+
+# Project Title
+
+Provide a short, descriptive name for your project.
+
+---
+
+# Executive Summary
+
+Describe your project in 2–4 paragraphs.
+
+Include:
+
+- What the project is
+- The problem it solves
+- Why it matters
+- The expected outcome
+
+---
+
+# Problem Statement
+
+What challenge does this project address?
+
+Examples:
+
+- Business problem
+- Community challenge
+- Research opportunity
+- AI use case
+- Open-source tool
+- Automation opportunity
+- Public sector challenge
+- Data quality issue
+
+---
+
+# Objectives
+
+What are the primary objectives?
+
+Examples:
+
+- Build an analytics dashboard
+- Develop an AI application
+- Create an open dataset
+- Publish a research report
+- Develop a reusable framework
+
+---
+
+# Expected Deliverables
+
+Select all that apply.
+
+- [ ] Dashboard
+- [ ] Machine Learning Model
+- [ ] AI Application
+- [ ] Python Package
+- [ ] API
+- [ ] Documentation
+- [ ] Public Dataset
+- [ ] Research Report
+- [ ] Presentation
+- [ ] Website
+- [ ] Automation
+- [ ] Other
+
+---
+
+# Proposed Technology Stack
+
+List the tools and technologies you expect to use.
+
+Examples:
+
+- Python
+- SQL
+- Power BI
+- Looker
+- Tableau
+- dbt
+- Airflow
+- Docker
+- GitHub Actions
+- Google Cloud
+- Azure
+- AWS
+- Microsoft Fabric
+- OpenAI API
+
+---
+
+# Skills Required
+
+Select the skills contributors should have.
+
+- [ ] Data Analysis
+- [ ] Data Engineering
+- [ ] Data Science
+- [ ] Machine Learning
+- [ ] AI Engineering
+- [ ] Software Engineering
+- [ ] Cloud Engineering
+- [ ] UX/UI Design
+- [ ] Technical Writing
+- [ ] Project Management
+- [ ] Research
+- [ ] Other
+
+---
+
+# Target Contributors
+
+Who would benefit from participating?
+
+Examples:
+
+- Beginners
+- Career Switchers
+- Junior Professionals
+- Senior Professionals
+- Researchers
+- Mentors
+
+---
+
+# Success Criteria
+
+How will success be measured?
+
+Examples:
+
+- Working application delivered
+- Dashboard published
+- Documentation completed
+- Dataset released
+- Community adoption
+- Number of contributors
+- Business impact
+
+---
+
+# Estimated Timeline
+
+Provide an estimated duration.
+
+Examples:
+
+- 2 weeks
+- 1 month
+- 3 months
+
+---
+
+# Dependencies
+
+Does this project depend on anything?
+
+Examples:
+
+- Existing repositories
+- Public datasets
+- APIs
+- External tools
+- Community volunteers
+
+---
+
+# Risks
+
+Describe any known risks.
+
+Examples:
+
+- Limited data
+- Technical complexity
+- Licensing restrictions
+- Resource availability
+
+---
+
+# Additional Information
+
+Include anything else that may help reviewers evaluate the proposal.
+
+Examples:
+
+- Reference links
+- Mock-ups
+- Research papers
+- GitHub repositories
+- Similar projects
+
+---
+
+# Would You Like to Lead This Project?
+
+- [ ] Yes
+- [ ] Yes, with support from mentors
+- [ ] No, I'm only proposing the idea
+
+---
+
+# Contributor Commitment
+
+By submitting this proposal, I confirm that:
+
+- [ ] This project aligns with Mettelo's mission.
+- [ ] I have searched for similar proposals.
+- [ ] I understand this proposal will be reviewed before acceptance.
+- [ ] I am willing to collaborate with the community if the project is approved.
+
+---
+
+# Maintainer Review
+
+For Mettelo maintainers only.
+
+## Community Value
+
+- [ ] High
+- [ ] Medium
+- [ ] Low
+
+## Technical Feasibility
+
+- [ ] Approved
+- [ ] Needs Discussion
+- [ ] Declined
+
+## Recommended Repository
+
+Repository:
+
+## Decision Notes
+
+---
+
+Thank you for helping shape the future of Mettelo.
+
+Every successful project begins with a meaningful idea. Together, we're building an ecosystem where data and AI professionals can collaborate, solve real problems, and create lasting impact.
+
+---
+
+© Mettelo
+
+Building the infrastructure for data and AI professionals to learn, build, prove, and grow together.
