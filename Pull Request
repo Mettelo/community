@@ -1,0 +1,182 @@
+# Pull Request
+
+## Summary
+
+Provide a clear and concise summary of the changes made.
+
+> What does this Pull Request do, and why is it needed?
+
+---
+
+## Related Issue
+
+If this Pull Request addresses an existing issue, reference it here.
+
+Examples:
+
+Closes #123
+
+Fixes #45
+
+Related to #78
+
+If there is no related issue, write:
+
+N/A
+
+---
+
+## Type of Contribution
+
+Select all that apply.
+
+- [ ] New feature
+- [ ] Bug fix
+- [ ] Documentation improvement
+- [ ] Performance improvement
+- [ ] Refactoring
+- [ ] Security improvement
+- [ ] Tests
+- [ ] Dependency update
+- [ ] Other (please specify)
+
+---
+
+## Changes Made
+
+Describe the work completed.
+
+Examples include:
+
+- Added a new feature
+- Fixed an existing bug
+- Updated documentation
+- Improved performance
+- Added tests
+- Refactored code
+
+---
+
+## How Has This Been Tested?
+
+Describe how you tested your changes.
+
+Examples:
+
+- Local testing
+- Unit tests
+- Integration tests
+- Manual testing
+- Peer review
+
+If testing was not required, explain why.
+
+---
+
+## Screenshots (if applicable)
+
+If your changes affect the user interface or documentation, include screenshots or screen recordings.
+
+---
+
+## Breaking Changes
+
+Does this Pull Request introduce any breaking changes?
+
+- [ ] Yes
+- [ ] No
+
+If yes, explain:
+
+- What changed?
+- Why was it necessary?
+- What should users do to upgrade?
+
+---
+
+## Documentation
+
+Have you updated any relevant documentation?
+
+- [ ] README
+- [ ] API documentation
+- [ ] User guide
+- [ ] Comments
+- [ ] Not required
+
+---
+
+## Checklist
+
+Before submitting this Pull Request, please confirm the following.
+
+### Code Quality
+
+- [ ] My code follows the project's coding standards.
+- [ ] I have reviewed my own changes.
+- [ ] I have removed unnecessary or commented-out code.
+- [ ] Variable and function names are meaningful.
+
+### Testing
+
+- [ ] My changes have been tested.
+- [ ] Existing functionality continues to work.
+- [ ] New functionality works as expected.
+
+### Documentation
+
+- [ ] Relevant documentation has been updated.
+- [ ] Examples have been updated where necessary.
+
+### Git
+
+- [ ] My branch is up to date with the latest changes.
+- [ ] My commit messages are clear and meaningful.
+
+### Community
+
+- [ ] I have read the CONTRIBUTING.md guide.
+- [ ] I agree to follow the Mettelo Code of Conduct.
+
+---
+
+## Additional Notes
+
+Provide any additional information that reviewers should know.
+
+Examples:
+
+- Future improvements
+- Known limitations
+- Dependencies
+- Design decisions
+
+---
+
+# Reviewer Notes
+
+Maintainers may review this Pull Request for:
+
+- Code quality
+- Readability
+- Maintainability
+- Documentation
+- Testing
+- Security
+- Performance
+- Compatibility
+- Alignment with the goals of the repository
+
+Reviewers may request changes before approving a Pull Request.
+
+---
+
+Thank you for contributing to Mettelo.
+
+Every contribution helps strengthen a global ecosystem where data and AI professionals learn, build, prove, and grow together.
+
+---
+
+© Mettelo
+
+Building the infrastructure for data and AI professionals to learn, build, prove, and grow together.
