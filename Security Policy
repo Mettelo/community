@@ -1,0 +1,161 @@
+# Security Policy
+
+Thank you for helping keep Mettelo secure.
+
+Security is a shared responsibility. Whether you're a contributor, maintainer, researcher, or community member, we appreciate your efforts in identifying and responsibly reporting vulnerabilities.
+
+This policy explains how to report security issues, what to expect after reporting, and our commitment to maintaining a secure and trustworthy ecosystem.
+
+---
+
+# Supported Repositories
+
+We actively maintain and provide security updates for repositories that are under active development.
+
+| Repository | Supported |
+|------------|-----------|
+| Latest release | ✅ Yes |
+| Development branch | ✅ Yes |
+| Archived repositories | ❌ No |
+| Deprecated repositories | ❌ No |
+
+Whenever possible, always use the latest version of a repository.
+
+---
+
+# Reporting a Security Vulnerability
+
+**Please do not report security vulnerabilities through public GitHub Issues or Discussions.**
+
+Instead, report them privately so we have an opportunity to investigate and resolve the issue before public disclosure.
+
+**Email:** security@mettelo.com
+
+Include as much information as possible:
+
+- A clear description of the vulnerability
+- Repository name
+- Affected files or components
+- Steps to reproduce
+- Proof of concept (if applicable)
+- Potential impact
+- Suggested mitigation (optional)
+
+Providing detailed information helps us investigate and resolve issues more efficiently.
+
+---
+
+# What Happens After You Report
+
+Once we receive your report, we aim to:
+
+- Acknowledge receipt within 3 business days
+- Assess the reported issue
+- Reproduce the vulnerability
+- Determine its severity
+- Develop and test a fix
+- Release a security update where necessary
+- Notify the reporter once the issue has been resolved
+
+Complex vulnerabilities may require additional investigation and coordination before a fix is released.
+
+---
+
+# Responsible Disclosure
+
+We ask that security researchers and contributors:
+
+- Do not publicly disclose vulnerabilities before they have been addressed.
+- Avoid accessing, modifying, or deleting data that does not belong to you.
+- Avoid disrupting services or degrading the experience of other users.
+- Report findings responsibly and in good faith.
+
+Responsible disclosure helps protect the community while allowing maintainers adequate time to develop and release a fix.
+
+---
+
+# Scope
+
+This policy applies to:
+
+- GitHub repositories
+- Source code
+- Documentation
+- GitHub Actions workflows
+- Community-maintained tools
+- APIs owned and maintained by Mettelo
+- Infrastructure maintained by Mettelo
+
+It does not apply to third-party services, libraries, or repositories that are outside our control.
+
+---
+
+# Security Best Practices for Contributors
+
+We encourage contributors to:
+
+- Keep dependencies up to date
+- Review third-party packages before use
+- Protect API keys and secrets
+- Never commit passwords or credentials
+- Follow secure coding practices
+- Report suspicious activity immediately
+- Review code before submitting Pull Requests
+
+Security should be considered throughout the development lifecycle—not only before release.
+
+---
+
+# Security Updates
+
+When a confirmed vulnerability affects a repository:
+
+- A fix will be developed and reviewed.
+- The affected repository will be updated.
+- Release notes will include security information where appropriate.
+- Contributors may be notified if additional action is required.
+
+---
+
+# Community Responsibility
+
+Every member of the Mettelo community plays a role in maintaining a secure ecosystem.
+
+If you discover:
+
+- Security vulnerabilities
+- Exposed credentials
+- Malicious code
+- Supply chain risks
+- Dependency vulnerabilities
+- Suspicious behaviour
+
+Please report them immediately through the process described above.
+
+---
+
+# Recognition
+
+We appreciate responsible security disclosures that help improve the safety of our projects.
+
+Where appropriate and with your permission, contributors who responsibly report valid vulnerabilities may be acknowledged in our release notes or community recognition programme.
+
+---
+
+# Contact
+
+For all security-related matters, please contact:
+
+📧 security@mettelo.com
+
+---
+
+Thank you for helping keep Mettelo secure.
+
+Together, we're building a trusted ecosystem for data and AI professionals.
+
+---
+
+© Mettelo
+
+Building the infrastructure for data and AI professionals to learn, build, prove, and grow together.
