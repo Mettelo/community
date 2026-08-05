@@ -1,0 +1,124 @@
+---
+name: Bug Report
+about: Report a bug, error, or unexpected behaviour
+title: "[BUG] "
+labels: bug
+assignees: ""
+---
+
+# Bug Report
+
+Thank you for taking the time to report this issue.
+
+Please complete the sections below to help us investigate and resolve the problem as quickly as possible.
+
+---
+
+# Summary
+
+Provide a brief description of the issue.
+
+Example:
+
+> Dashboard filters stop working after selecting multiple regions.
+
+---
+
+# Repository
+
+Which Mettelo repository is affected?
+
+- [ ] .github
+- [ ] community
+- [ ] labs
+- [ ] roadmaps
+- [ ] playbooks
+- [ ] project-library
+- [ ] datasets
+- [ ] career-resources
+- [ ] Other
+
+Repository Name:
+
+---
+
+# Steps to Reproduce
+
+Please describe the exact steps needed to reproduce the issue.
+
+1.
+2.
+3.
+4.
+
+---
+
+# Expected Behaviour
+
+Describe what you expected to happen.
+
+---
+
+# Actual Behaviour
+
+Describe what actually happened.
+
+Include any error messages where applicable.
+
+---
+
+# Screenshots
+
+If applicable, attach screenshots, logs, or screen recordings.
+
+---
+
+# Environment
+
+Please complete the following information.
+
+Operating System:
+
+Browser:
+
+Programming Language:
+
+Version:
+
+Device:
+
+---
+
+# Additional Information
+
+Please provide any additional context that may help us understand the issue.
+
+Examples include:
+
+- Configuration details
+- Dependencies
+- Related issues
+- Recent changes
+
+---
+
+# Possible Solution (Optional)
+
+If you have ideas on how this issue could be resolved, please describe them here.
+
+---
+
+# Checklist
+
+Before submitting this report, please confirm the following.
+
+- [ ] I have searched existing Issues.
+- [ ] I am using the latest supported version.
+- [ ] I have provided enough information to reproduce the issue.
+- [ ] I have removed any confidential or sensitive information.
+
+---
+
+Thank you for helping improve Mettelo.
+
+Every bug report helps us build a more reliable ecosystem for the global data and AI community.
