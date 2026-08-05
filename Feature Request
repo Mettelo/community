@@ -1,0 +1,178 @@
+---
+name: Feature Request
+about: Suggest a new feature or enhancement for Mettelo
+title: "[FEATURE] "
+labels: enhancement
+assignees: ""
+---
+
+# Feature Request
+
+Thank you for helping improve Mettelo.
+
+We welcome ideas that make our projects, tools, documentation, and community more valuable for data and AI professionals.
+
+Please complete the sections below before submitting your request.
+
+---
+
+# Feature Summary
+
+Provide a short summary of your idea.
+
+Example:
+
+> Add an AI-powered project recommendation system.
+
+---
+
+# Problem Statement
+
+What problem does this feature solve?
+
+Describe the challenge or pain point you have experienced.
+
+Examples:
+
+- Manual process
+- Missing functionality
+- Poor user experience
+- Difficult onboarding
+- Repetitive work
+- Performance limitations
+
+---
+
+# Proposed Solution
+
+Describe your proposed solution in as much detail as possible.
+
+Include:
+
+- How it should work
+- User experience
+- Expected behaviour
+- Technical considerations (if applicable)
+
+---
+
+# Benefits
+
+How would this feature improve Mettelo?
+
+Select all that apply.
+
+- [ ] Better user experience
+- [ ] Improved collaboration
+- [ ] Increased productivity
+- [ ] Better accessibility
+- [ ] Improved documentation
+- [ ] Better project management
+- [ ] Better learning experience
+- [ ] Better developer experience
+- [ ] Other
+
+Please explain.
+
+---
+
+# Possible Implementation
+
+If you have ideas about implementation, describe them here.
+
+Examples:
+
+- Suggested architecture
+- Technologies
+- APIs
+- Frameworks
+- Design ideas
+
+This section is optional.
+
+---
+
+# Alternatives Considered
+
+Have you considered any alternative solutions?
+
+If yes, explain why you prefer this proposal.
+
+---
+
+# Mock-ups or Examples
+
+If applicable, attach:
+
+- Screenshots
+- Diagrams
+- Wireframes
+- Flowcharts
+- Example implementations
+- Links to similar features
+
+---
+
+# Repository
+
+Which repository is this feature intended for?
+
+- [ ] .github
+- [ ] community
+- [ ] labs
+- [ ] roadmaps
+- [ ] playbooks
+- [ ] project-library
+- [ ] datasets
+- [ ] career-resources
+- [ ] Other
+
+Repository Name:
+
+---
+
+# Additional Context
+
+Include anything else that would help us understand your proposal.
+
+Examples:
+
+- Related issues
+- Research
+- Community discussions
+- User feedback
+- Industry examples
+
+---
+
+# Checklist
+
+Before submitting, please confirm:
+
+- [ ] I searched existing Issues and Discussions.
+- [ ] This feature aligns with Mettelo's mission.
+- [ ] I have clearly explained the problem.
+- [ ] I have described the proposed solution.
+- [ ] I understand this request may require discussion before implementation.
+
+---
+
+# Contributor Interest
+
+Would you like to help implement this feature?
+
+- [ ] Yes, I'd like to contribute.
+- [ ] Yes, but I need guidance.
+- [ ] No, I'm only suggesting the idea.
+
+---
+
+Thank you for helping shape the future of Mettelo.
+
+Every thoughtful idea helps us build a stronger ecosystem where data and AI professionals can learn, build, prove, and grow together.
+
+---
+
+© Mettelo
+
+Building the infrastructure for data and AI professionals to learn, build, prove, and grow together.
